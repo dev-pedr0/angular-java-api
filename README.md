@@ -9,7 +9,7 @@ O backend em java segue um modelo geral de verificar de logi ne registro com ele
 ## Tecnologias do backend:
 - Java 21
 - Spring Boot
-  - Sprign Web
+  - Spring Web
   - Dev Tools
   - Spring Security
   - Lombok
