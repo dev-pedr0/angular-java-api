@@ -25,10 +25,9 @@ Requisitos:
 - Maven
 
 Clone o projeto:
-``
+```
 git clone https://github.com/dev-pedr0/angular-java-api
-cd backend
-``
+```
 Em [application.properties](https://github.com/dev-pedr0/angular-java-api/blob/master/src/main/resources/application.properties) configure o seu api.security.token.secret
 
 ## Frontend
